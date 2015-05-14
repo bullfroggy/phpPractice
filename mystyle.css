@@ -1,0 +1,43 @@
+table.sortable th{
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+
+table.sortable {
+	max-width: 90%;
+}
+
+.hasDatepicker {
+	width: 100px;
+}
+
+tr.games:hover {
+	background-color: #abc;
+}
+
+body {
+	font-family: Arial;
+	font-size: 90%;
+}
+
+.names {
+	padding-left: 10px;
+}
+
+.button {
+	width: 100%;
+}
+
+.hidden {
+	display: none;
+}
+
+.name {
+	width: 100%;
+}
+
+#nameinput {
+	width: 100%;
+}
